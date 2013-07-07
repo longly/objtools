@@ -24,6 +24,7 @@ public class ObjectToolsTest {
 		list.add("b");
 		o1.setObj3(list);
 		
+		
 		ObjectTest o2 = new ObjectTest();
 		o2.setObj1("String");
 		o2.setObj2(123L);
